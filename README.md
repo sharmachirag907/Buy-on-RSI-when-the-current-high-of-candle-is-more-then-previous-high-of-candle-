@@ -1,0 +1,2 @@
+# Buy-on-RSI-when-the-current-high-of-candle-is-more-then-previous-high-of-candle-
+BUY-SELL BOT on RSI strategy About this Trading BOT This is the automated BUY and SELL code for zerodha , it will buy order and sell that order on indian exchange based on buy/sell strategy implemented on code.Place an order when RSI is greater then 30,when high breaks next high,place BUY SL order on current high when BUY SL order implemented on ZERODHA place an order of SELL on lowest lowcand if RSI cross70:cancel the SELL SL bid place MARET order of BUY bid.Full strategy mention below.
